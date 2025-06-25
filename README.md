@@ -47,7 +47,7 @@ To verify similarity between the original and new datasets, we used both statist
 
 ### Execution
 
-To run the synthetic data generation code (generate_data.py) from .github/workflows/synthetic_data_generation.yml 
+To run the synthetic data generation code (generate_data.py) > .github/workflows/synthetic_data_generation.yml 
 
 ![GitHub workflow run](./images/trigger_workflow.png)
 ---
