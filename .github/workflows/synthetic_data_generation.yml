@@ -31,4 +31,4 @@ jobs:
           path: |
             dataset.csv
             new_dataset.csv
-            comparision.png
+            comparison.png
