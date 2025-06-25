@@ -38,12 +38,16 @@ To verify similarity between the original and new datasets, we used both statist
 
 ## 📁 Files and Execution
 
+### Files
+
 - `dataset.csv`: Original dataset (500 samples)
 - `new_dataset.csv`: New dataset (1000 samples)
 - `comparison.png`: Visual comparison of distributions
 - `main.py`: Full code for generation and verification
 
-You can run the synthetic data generation code (generate_data.py) from .github/workflows/synthetic_data_generation.yml 
+### Execution
+
+To run the synthetic data generation code (generate_data.py) from .github/workflows/synthetic_data_generation.yml 
 
 ![GitHub workflow run](./images/trigger_workflow.png)
 ---
